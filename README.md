@@ -2,16 +2,16 @@
 
 This is the OPTSOL TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
 
-To use this template, add `--template optsol-react` when creating a new app.
+To use this template, add `--template optsol` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template optsol-react
+npx create-react-app my-app --template optsol
 
 # or
 
-yarn create react-app my-app --template optsol-react
+yarn create react-app my-app --template optsol
 ```
 
 For more information, please refer to:
